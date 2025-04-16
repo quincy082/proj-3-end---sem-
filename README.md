@@ -90,3 +90,26 @@ A 2D real-time Carrom board game implemented in C using OpenGL, with multiplayer
 ```bash
 sudo apt install freeglut3-dev
 make
+
+# 🧑‍💻 Contribution Suggestions
+
+## 🐞 Report Issues
+- Raise bugs related to gameplay or synchronization  
+- Highlight logic duplication in the 4-player clients  
+- Suggest improvement for dynamic client management  
+
+## 🔧 Refactor or Enhance
+- Combine all 4-player clients into a single unified client  
+- Let players select their ID at runtime  
+- Create a settings panel to adjust game parameters (speed, visuals)  
+
+## 🎮 Feature Additions
+- Add sound effects for coin collisions and scoring  
+- Implement a graphical scoreboard with OpenGL  
+- Add pause/resume, rematch, or spectator functionality  
+
+## 🧹 Code & Documentation Cleanup
+- Improve function comments and variable names  
+- Break large files into logical modules  
+- Expand the README with GIFs or gameplay video  
+
