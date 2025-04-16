@@ -79,19 +79,7 @@ A 2D real-time Carrom board game implemented in C using OpenGL, with multiplayer
 
 ---
 
-## ⚙️ How to Build and Run
-
-### Prerequisites
-- Linux/macOS
-- GCC
-- OpenGL + GLUT (`freeglut3-dev` on Ubuntu)
-
-### Build Instructions
-```bash
-sudo apt install freeglut3-dev
-make
-
-# 🧑‍💻 Contribution Suggestions
+### 🧑‍💻 Contribution Suggestions
 
 ## 🐞 Report Issues
 - Raise bugs related to gameplay or synchronization  
@@ -112,4 +100,17 @@ make
 - Improve function comments and variable names  
 - Break large files into logical modules  
 - Expand the README with GIFs or gameplay video  
+
+## ⚙️ How to Build and Run
+
+### Prerequisites
+- Linux/macOS
+- GCC
+- OpenGL + GLUT (`freeglut3-dev` on Ubuntu)
+
+### Build Instructions
+```bash
+sudo apt install freeglut3-dev
+make
+
 
