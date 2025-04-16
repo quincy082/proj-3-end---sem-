@@ -31,6 +31,7 @@ A 2D real-time Carrom board game implemented in C using OpenGL, with multiplayer
 - **Graphics Library**: OpenGL
 - **Networking**: TCP sockets
 - **Game Type**: Real-time LAN multiplayer with AI
+- **Github Repository**: https://github.com/koroder/multiplayer-LAN-Carrom-game
 
 ---
 
