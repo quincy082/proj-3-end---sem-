@@ -100,7 +100,9 @@ A 2D real-time Carrom board game implemented in C using OpenGL, with multiplayer
 ## 🧹 Code & Documentation Cleanup
 - Improve function comments and variable names  
 - Break large files into logical modules  
-- Expand the README with GIFs or gameplay video  
+- Expand the README with GIFs or gameplay video
+
+---
 
 ## ⚙️ How to Build and Run
 
