@@ -4,7 +4,7 @@
 
 <br>
 
-### Student 1: Dia Pitroda
+### Student 1: Diya Pitroda
 ### Student Id: 202404009
 
 <br> 
